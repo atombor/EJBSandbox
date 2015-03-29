@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" hash="2540179639">
+    <data-source source="LOCAL" name="HSQLDB - EJBSandbox" uuid="9402fe79-ba1f-4544-b374-3cd23187903a">
+      <driver-ref>hsqldb.embedded</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.hsqldb.jdbc.JDBCDriver</jdbc-driver>
+      <jdbc-url>jdbc:hsqldb:file:$PROJECT_DIR$/h2/EJBSandbox</jdbc-url>
+      <libraries />
+    </data-source>
+  </component>
+</project>
